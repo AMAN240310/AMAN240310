@@ -35,6 +35,18 @@ I am a Computer Science student focused on building useful software, strengtheni
 
 I enjoy working across the stack — from designing interfaces and APIs to databases, deployment, automation, and AI-powered features.
 
+🟢 SYSTEM // PROFILE
+
+<div align="center">
+
+<img src="./assets/terminal-profile.png" alt="Aman Kumar terminal profile" width="100%"/>
+
+</div>
+
+STATUS: ONLINE
+MODE: BUILDING
+FOCUS: Full-Stack Development · DSA · AI/ML · System Design
+
 ⚡ What I'm Up To
 
 🔭 Currently working on: Full-stack applications and AI-powered projects
