@@ -1,226 +1,108 @@
 <div align="center">
 
-# 👋 Hey, I'm Aman Kumar
+# Hi, I'm Rajendra 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;AI+%26+ML+Explorer;Hackathon+Builder;Always+Learning+%26+Building" />
+### Full-Stack & AI Engineer · Undergraduate Student
+
+Building end-to-end AI-powered products — from voice agents and clinical NLP pipelines to full-stack dashboards and 3D web experiences.
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AMAN240310&label=Profile%20Views&color=36BCF7&style=flat" />
+## 🚀 About Me
+
+- 🔭 Currently building an **AI-powered clinical intake system** for **Smart India Hackathon 2026** — a Hindi/Hinglish voice agent that structures conversations into validated medical facts
+- 🌐 I work across the stack: **Next.js / React** front ends, **FastAPI / Node.js** back ends, and **AI pipelines** powered by Gemini, Whisper, and Ollama
+- 🎯 My hackathon and side-project focus is **agentic AI development** — tool-calling bots, multi-provider AI routing, and real-time analysis pipelines
+- 🤝 Co-organize a campus coding group focused on problem-solving sprints and project showcases
+- 🌱 Getting started with open source contributions
+- ⚡ Fun fact: I've built everything from a Telegram bot that generates PowerPoint decks to a computer-vision interview analyzer
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Data & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI / ML**
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+<br/>
+
+## 🧩 Featured Projects
+
+### 🩺 SIH 2026 — Clinical Intake Voice Agent
+Voice-first Hindi/Hinglish AI agent that turns natural clinical conversations into validated, structured medical facts — paired with a document-extraction module and a Gemini + RxNorm pipeline that fuses both into clinician-ready summaries.
+`Gemini` `RxNorm` `FastAPI` `Speech AI`
+
+### 📬 AI Email Triage
+Full-stack app that fetches mail over IMAP and triages it with a multi-provider AI router (Gemini or local Ollama), surfaced through a React signal-bar urgency UI backed by MongoDB.
+`Next.js` `Gemini` `Ollama` `MongoDB`
+
+### 🎤 AI Interview Analyzer
+Production-grade interview analysis platform combining a React frontend, a Node.js/Express backend, and a Python FastAPI service running OpenCV, MediaPipe, and Whisper alongside Gemini 1.5 Pro — fully containerized with Docker.
+`OpenCV` `MediaPipe` `Whisper` `Gemini`
+
+### 📚 EduLib — ROMER Command
+Full-stack admin backend and dashboard with a dark-themed control-room UI, built on Next.js 16 and React 19 with MongoDB Atlas and Supabase Storage.
+`Next.js 16` `React 19` `MongoDB Atlas`
+
+### 🤖 PPT Generator Telegram Bot
+Telegram bot that turns a prompt into a full PowerPoint deck — Gemini for content, Unsplash for imagery, python-pptx for assembly, and LibreOffice/Ghostscript for PDF export, with automated regression tests.
+`Python` `Gemini` `python-pptx`
+
+### 🎨 Mainframe — Agency Landing Page
+Hero landing page for a creative agency, built for speed and visual polish.
+`React` `Vite` `TypeScript` `Tailwind`
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace "your-username" below with your actual GitHub username -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 🤝 Connect With Me
 
-```javascript
-const aman = {
-    education: "B.Tech CSE @ JECRC University",
-    role: "Student Developer",
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Problem Solving",
-        "Software Engineering",
-        "Web3"
-    ],
-    currentlyLearning: [
-        "Data Structures & Algorithms",
-        "Backend Development",
-        "System Design",
-        "AI / ML"
-    ],
-    philosophy: "Learn → Build → Break → Debug → Improve"
-};
-```
-
-I am a Computer Science student who enjoys **building practical software and solving real-world problems**.
-
-I work across frontend, backend, databases, and AI, while continuously improving my fundamentals in computer science.
-
----
-
-## ⚡ What I'm Doing
-
-* 🔭 Building and experimenting with **full-stack applications**
-* 🧠 Practicing **DSA & problem solving**
-* 🤖 Exploring **AI/ML and computer vision**
-* 🌐 Learning more about **backend architecture and APIs**
-* ⛓️ Exploring **Web3 & Blockchain**
-* 🏆 Participating in **hackathons and developer programs**
-* 🚀 Turning ideas into working products
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<!-- Swap these placeholder links for your real profiles -->
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,vercel,netlify" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 PYQ Library
-
-A platform designed to make **previous year question papers** easier for students to organize, discover and access.
-
-**Tech:** Next.js · React · Tailwind · MongoDB · Supabase
-
-</td>
-
-<td width="50%">
-
-### 🚨 Emergency Help Assist
-
-A one-tap emergency assistance system for quickly sharing location and emergency information with trusted contacts.
-
-**Tech:** React · Node.js · APIs · Location Services
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 MoodLift AI
-
-An AI project exploring **real-time emotion recognition and mood analysis** using computer vision.
-
-**Tech:** Python · OpenCV · MediaPipe · React · Node.js
-
-</td>
-
-<td width="50%">
-
-### 💬 Real-Time Chat App
-
-A real-time communication application built to explore WebSockets, APIs and event-driven backend systems.
-
-**Tech:** React · Node.js · Express · Socket.IO
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AMAN240310&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN240310&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AMAN240310&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAN240310&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AMAN240310/AMAN240310/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AMAN240310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-# 📌 Current Goals
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  ✓ Learn modern Full Stack Development     │
-│  ✓ Build real-world projects               │
-│  → Master Data Structures & Algorithms      │
-│  → Improve Backend Engineering              │
-│  → Learn System Design                      │
-│  → Explore AI / ML                          │
-│  → Contribute to Open Source                │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AMAN240310">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Build. Learn. Iterate.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
 
 </div>
