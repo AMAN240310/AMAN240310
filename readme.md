@@ -1,171 +1,311 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Rajendra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%7C%20Undergraduate%20Student&descAlignY=58&descSize=18"/>
+👨‍💻 Aman Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+Full-Stack+Products;Voice+AI+%C2%B7+Computer+Vision+%C2%B7+LLM+Pipelines;Currently+Shipping+for+Smart+India+Hackathon+2026;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat" />
+Computer Science Student · Full-Stack Developer · Problem Solver
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Learning+DSA+every+day;Exploring+AI+%26+Machine+Learning;Full-Stack+Web+Development;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=6366F1&style=flat-square" />
+<p>
+  <a href="https://github.com/AMAN240310">
+    <img src="https://img.shields.io/badge/GitHub-AMAN240310-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-</div>
-
-<br/>
-
-## 🧠 About Me
-
-```python
-class Rajendra:
-    def __init__(self):
-        self.role         = "Undergraduate Student · Full-Stack & AI Engineer"
-        self.focus        = ["Agentic AI", "Voice/NLP pipelines", "Full-stack product builds"]
-        self.building_now = "SIH 2026 — Hindi/Hinglish clinical intake voice agent"
-        self.community    = "Co-organize a campus coding group (sprints + project showcases)"
-        self.philosophy   = "Ship real things, then make them robust"
-
-    def currently_exploring(self):
-        return ["Open source contributions", "3D web (Three.js)", "Multi-provider AI routing"]
-```
-
-- 🔭 Currently building a **voice-first clinical intake AI agent** for **Smart India Hackathon 2026** — turning Hindi/Hinglish conversations into structured, validated medical facts
-- ⚙️ Comfortable across the whole stack: **Next.js/React** front ends, **FastAPI/Node** back ends, **MongoDB/Supabase** for data
-- 🤖 My hackathon and side-project throughline is **agentic AI** — tool-calling bots, multi-provider LLM routing, real-time CV/speech pipelines
-- 🤝 Co-organize a campus coding group built around problem-solving sprints and project showcases
-- 🌱 Making my first open-source contributions
-- ⚡ Have built everything from a Telegram bot that writes PowerPoint decks to a computer-vision interview analyzer
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,threejs,fastapi" />
-
-<br/><br/>
-
-**Data, AI & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,docker,opencv,git,github,vscode" />
+<img src="https://komarev.com/ghpvc/?username=AMAN240310&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 
 </div>
 
-<br/>
+🧑‍💻 Who Am I?
 
-## 🚀 Featured Projects
+Aman Kumar
+├── 🎓 B.Tech Computer Science & Engineering
+├── 🏫 JECRC University
+├── 💻 Full-Stack Development
+├── 🧠 Data Structures & Algorithms
+├── 🤖 AI / ML Exploration
+├── 🌐 Web3 & Blockchain
+├── 🏆 Hackathons & Innovation
+└── 🚀 Build → Break → Debug → Improve
 
-<table width="100%">
+I am a Computer Science student focused on building useful software, strengthening problem-solving skills, and learning by shipping real projects.
+
+I enjoy working across the stack — from designing interfaces and APIs to databases, deployment, automation, and AI-powered features.
+
+⚡ What I'm Up To
+
+🔭 Currently working on: Full-stack applications and AI-powered projects
+
+👯 Looking to collaborate on: Open-source projects, hackathons, and innovative products
+
+🤝 Looking for help with: System design, scalable backend architecture, and advanced DSA
+
+🌱 Currently learning: TypeScript, backend engineering, AI/ML, cloud technologies, and system design
+
+💬 Ask me about: React, JavaScript, Node.js, Python, MongoDB, Git, and web development
+
+⚡ Fun fact: I learn fastest when I turn an idea into a working project
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
+
+Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+</p>
+
+AI / Computer Vision / Other
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,vercel,netlify" />
+</p>
+
+🚀 Featured Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 SIH 2026 — Clinical Intake Voice Agent
-Voice-first Hindi/Hinglish agent that structures natural clinical conversation into validated `SAFE_FACTS`, paired with a document-extraction module and a Gemini + RxNorm pipeline that fuses both into clinician-ready summaries.
+📚 PYQ Library
 
-`Gemini` `RxNorm` `FastAPI` `Speech AI`
+A student-focused platform for organizing and accessing Previous Year Question Papers.
+
+Stack
+
+Next.js React Tailwind CSS MongoDB Supabase
+
+Highlights
+
+Organized academic resources
+
+Cloud file storage
+
+Database-backed content
+
+Student-friendly interface
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📬 AI Email Triage
-Fetches mail over IMAP and triages it through a multi-provider AI router (Gemini or local Ollama), surfaced via a React signal-bar urgency UI backed by MongoDB.
+🚨 Emergency Help Assist
 
-`Next.js` `Gemini` `Ollama` `MongoDB`
+A one-tap emergency assistance concept designed to quickly share location and emergency information.
+
+Stack
+
+React Node.js APIs Location Services
+
+Highlights
+
+GPS location
+
+Last-known location fallback
+
+Emergency contacts
+
+Hospital selection
+
+WhatsApp / SMS / Email support
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 AI Interview Analyzer
-Production-grade interview analysis platform: React frontend, Node/Express backend, and a Python FastAPI service running OpenCV, MediaPipe and Whisper alongside Gemini 1.5 Pro — fully Dockerized.
+🧠 MoodLift AI
 
-`OpenCV` `MediaPipe` `Whisper` `Gemini`
+An AI-powered project exploring real-time emotion recognition and mood analysis using computer vision.
 
-</td>
-<td width="50%" valign="top">
+Stack
 
-### 📚 EduLib — ROMER Command
-Full-stack admin backend and dashboard with a dark-themed control-room UI, built on Next.js 16 / React 19 with MongoDB Atlas and Supabase Storage.
+Python OpenCV MediaPipe React Node.js
 
-`Next.js 16` `React 19` `MongoDB Atlas`
+Highlights
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Real-time camera processing
 
-### 🤖 PPT Generator Telegram Bot
-Turns a prompt into a full slide deck — Gemini for content, Unsplash for imagery, python-pptx for assembly, LibreOffice/Ghostscript for PDF export, with automated regression tests.
+Emotion analysis
 
-`Python` `Gemini` `python-pptx`
+Python AI engine
+
+Web-based interface
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎨 Mainframe — Agency Landing Page
-Hero landing page for a creative agency, built for speed and visual polish.
+💬 Real-Time Chat App
 
-`React` `Vite` `TypeScript` `Tailwind`
+A real-time communication project built to understand event-driven applications and WebSocket communication.
+
+Stack
+
+React Node.js Express Socket.IO
+
+Highlights
+
+Real-time messaging
+
+Event-based communication
+
+Client-server architecture
+
+Backend API integration
 
 </td>
 </tr>
 </table>
 
-<br/>
+🧠 My Learning Roadmap
 
-## 📊 GitHub Analytics
+                    COMPUTER SCIENCE
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+         DSA            DEVELOPMENT          AI
+          │                │                │
+    ┌─────┴─────┐    ┌─────┴─────┐    ┌────┴────┐
+    │           │    │           │    │         │
+ Algorithms  Problem  Frontend   Backend  ML     CV
+             Solving
+                           │
+                    ┌──────┴──────┐
+                    │             │
+                System Design   Cloud
+
+Current Focus
+
+HTML / CSS / JavaScript
+
+React
+
+Node.js / Express
+
+MongoDB
+
+Git & GitHub
+
+Advanced DSA
+
+TypeScript
+
+System Design
+
+Cloud & DevOps
+
+Advanced AI/ML
+
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AMAN240310&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN240310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
+🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<img src="https://streak-stats.demolab.com?user=AMAN240310&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<br/>
+📈 Contribution Activity
 
-## 🎯 Current Goals
-
-```text
-┌───────────────────────────────────────────────┐
-│  ✓ Ship SIH 2026 clinical intake voice agent   │
-│  ✓ Ship multi-provider AI routing patterns     │
-│  → Land first open-source PR                   │
-│  → Deepen Three.js / 3D web skills             │
-│  → Explore agentic multi-tool orchestration    │
-└───────────────────────────────────────────────┘
-```
-
-<br/>
-
-## 🤝 Connect With Me
-
-<!-- Replace with your real links -->
 <div align="center">
 
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAN240310&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
-<br/>
+🐍 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AMAN240310/AMAN240310/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+🏆 Achievements & Activities
+
+🏆 Participated in university-level innovation competitions
+
+💡 Worked on real-world problem statements and hackathon projects
+
+🚀 Built and deployed multiple web applications
+
+🤖 Explored AI, computer vision, and automation
+
+🌐 Participated in developer programs and technology bootcamps
+
+🤝 Collaborated with students on software and presentation projects
+
+💻 Developer Mode
+
+$ whoami
+aman-kumar
+
+$ role
+computer-science-student
+
+$ focus
+full-stack-development + dsa + ai
+
+$ currently_learning
+typescript system-design ai/ml cloud
+
+$ status
+building...
+
+$ philosophy
+"Don't just learn the technology. Build with it."
+
+📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AMAN240310">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace the URL below with your actual LinkedIn profile -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+Learn. Build. Debug. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
 </div>
