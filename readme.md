@@ -1,156 +1,209 @@
-# Hi, I'm Aman Kumar 👋
+<div align="center">
 
-### Computer Science & Engineering Student | Full-Stack Developer | Problem Solver
+# 👋 Hey, I'm Aman Kumar
 
-I'm a **B.Tech Computer Science & Engineering student at JECRC University**, interested in building practical software, exploring emerging technologies, and continuously improving my problem-solving skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;AI+%26+ML+Explorer;Hackathon+Builder;Always+Learning+%26+Building" />
 
-I enjoy turning ideas into working projects — from web applications and developer tools to AI-powered systems and hackathon solutions.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=AMAN240310&label=Profile%20Views&color=36BCF7&style=flat" />
 
-## 🚀 About Me
-
-* 🎓 B.Tech CSE student at **JECRC University**
-* 💻 Interested in **Full-Stack Development, AI, and Software Engineering**
-* 🧠 Currently improving my **Data Structures & Algorithms** skills
-* 🌐 Building projects with **React, Node.js, JavaScript, and MongoDB**
-* 🐍 Exploring **Python, AI/ML, and automation**
-* ⛓️ Interested in **Web3, Blockchain, and emerging technologies**
-* 🏆 Participating in **hackathons, competitions, and developer programs**
-* 📚 Always learning, building, and experimenting with new technologies
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+```javascript
+const aman = {
+    education: "B.Tech CSE @ JECRC University",
+    role: "Student Developer",
+    interests: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Problem Solving",
+        "Software Engineering",
+        "Web3"
+    ],
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "System Design",
+        "AI / ML"
+    ],
+    philosophy: "Learn → Build → Break → Debug → Improve"
+};
+```
+
+I am a Computer Science student who enjoys **building practical software and solving real-world problems**.
+
+I work across frontend, backend, databases, and AI, while continuously improving my fundamentals in computer science.
+
+---
+
+## ⚡ What I'm Doing
+
+* 🔭 Building and experimenting with **full-stack applications**
+* 🧠 Practicing **DSA & problem solving**
+* 🤖 Exploring **AI/ML and computer vision**
+* 🌐 Learning more about **backend architecture and APIs**
+* ⛓️ Exploring **Web3 & Blockchain**
+* 🏆 Participating in **hackathons and developer programs**
+* 🚀 Turning ideas into working products
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,vercel,netlify" />
+</p>
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📚 PYQ Library
 
-A platform for organizing and accessing **previous year question papers**, designed to make academic resources easier for students to discover and use.
+A platform designed to make **previous year question papers** easier for students to organize, discover and access.
 
-**Tech:** Next.js · React · Tailwind CSS · MongoDB · Supabase
+**Tech:** Next.js · React · Tailwind · MongoDB · Supabase
 
----
+</td>
+
+<td width="50%">
 
 ### 🚨 Emergency Help Assist
 
-A one-tap emergency assistance system designed to help users quickly share their location and emergency information with trusted contacts.
-
-**Features include:**
-
-* GPS-based location sharing
-* Emergency contact management
-* Severity selection
-* Hospital selection
-* Emergency message generation
-* WhatsApp / SMS / Email integration
+A one-tap emergency assistance system for quickly sharing location and emergency information with trusted contacts.
 
 **Tech:** React · Node.js · APIs · Location Services
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🧠 MoodLift AI
 
-An AI-powered project exploring **emotion recognition and real-time mood analysis** through computer vision.
+An AI project exploring **real-time emotion recognition and mood analysis** using computer vision.
 
-**Tech:** React · Node.js · Python · OpenCV · MediaPipe · AI/ML
+**Tech:** Python · OpenCV · MediaPipe · React · Node.js
 
----
+</td>
 
-### 💬 Real-Time Chat Application
+<td width="50%">
 
-A real-time communication application built to explore **WebSockets, backend APIs, and real-time event handling**.
+### 💬 Real-Time Chat App
+
+A real-time communication application built to explore WebSockets, APIs and event-driven backend systems.
 
 **Tech:** React · Node.js · Express · Socket.IO
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧩 Currently Learning
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AMAN240310&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN240310&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AMAN240310&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAN240310&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AMAN240310/AMAN240310/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AMAN240310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 📌 Current Goals
 
 ```text
-Data Structures & Algorithms
-        ↓
-Backend Development
-        ↓
-System Design
-        ↓
-AI / Machine Learning
-        ↓
-Cloud & Distributed Systems
+┌─────────────────────────────────────────────┐
+│                                             │
+│  ✓ Learn modern Full Stack Development     │
+│  ✓ Build real-world projects               │
+│  → Master Data Structures & Algorithms      │
+│  → Improve Backend Engineering              │
+│  → Learn System Design                      │
+│  → Explore AI / ML                          │
+│  → Contribute to Open Source                │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-I'm particularly focused on becoming stronger at **problem solving, backend architecture, and building scalable applications**.
-
 ---
 
-## 🏆 Achievements & Activities
-
-* 🥇 Participated in multiple **hackathons and innovation competitions**
-* 🚀 Built projects for real-world problem statements
-* 💡 Selected among top participants in university-level innovation competitions
-* 🌐 Participated in developer bootcamps and technology programs
-* 🤝 Collaborating with other developers on student projects
-
----
-
-## 📊 GitHub Stats
+# 🌐 Let's Connect
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AMAN240310&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN240310&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAN240310&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 
 <a href="https://github.com/AMAN240310">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -160,22 +213,14 @@ I'm particularly focused on becoming stronger at **problem solving, backend arch
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-## 💡 My Approach
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the fastest way to learn technology is to build real projects, understand why things fail, and continuously improve the implementation.
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects useful, consider giving them a star!
+### 💻 Build. Learn. Iterate.
 
-**Thanks for visiting my profile.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 
 </div>
