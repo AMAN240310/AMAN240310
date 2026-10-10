@@ -23,7 +23,6 @@ Computer Science Student · Full-Stack Developer · Problem Solver
 
 Aman Kumar
 ├── 🎓 B.Tech Computer Science & Engineering
-├── 🏫 JECRC University
 ├── 💻 Full-Stack Development
 ├── 🧠 Data Structures & Algorithms
 ├── 🤖 AI / ML Exploration
